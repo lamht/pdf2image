@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "pdf2image": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
